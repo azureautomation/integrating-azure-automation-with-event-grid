@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 4328,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/integrating-azure-automation-with-event-grid/master/Watch-VMWrite.ps1",
+    "DownloadCount": 2539,
+    "Id": "Integrating-Azure-8a735bd8",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 82,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2017-11-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample Automation runbook integrates with Azure event grid subscriptions to get notified when a write command is performed against an Azure VM. The runbook adds a cost tag to the VM if it doesn't exist. It also sends an optional notification to a Microsoft Teams channel.",
+    "Title": "Integrating Azure Automation with Event grid",
+    "UpdatedDate": "2017-11-28T00:00:00",
+    "Url": "https://github.com/azureautomation/integrating-azure-automation-with-event-grid",
+    "UserTags": "Azure Automation, Microsoft Azure Virtual Machines, Event Grid"
+}
